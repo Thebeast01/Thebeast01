@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Frontend web development , java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Intagram https://www.instagram.com/mohammad_saif274/
-- linkedin : 
+- linkedin : https://www.linkedin.com/in/mohammad-saif-bca
 
 <!---
 Thebeast01/Thebeast01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
