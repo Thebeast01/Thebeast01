@@ -2,7 +2,11 @@
 
 - 👀 <em> I’m interested in web development & open Source Contribution. </em>
 - 
-- 🌱 I’m currently learning  Frontend web development with HTML, CSS , JAVASCRIPT and RACTJS(learning) , java.
+- 🌱 <h1> SKILLS </h1>
+- [x] HTML5
+- [x] CSS3
+- [x] JAVASCRIPT
+- [x] REACTJS
 - 
 - 💞️ I’m looking to collaborate on
   
