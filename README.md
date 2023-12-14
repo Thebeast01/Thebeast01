@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning  Frontend web development with HTML, CSS , JAVASCRIPT and RACTJS(learning) , java.
 - 
 - 💞️ I’m looking to collaborate on
-- 
+  
 - [x] Web Projects
 - [x] Javascript 
 - [x] React Projects
--
+
 - 📫 Intagram https://www.instagram.com/mohammad_saif274/
-- 
+  
 - linkedin : https://www.linkedin.com/in/mohammad-saif-bca
 
 <!---
