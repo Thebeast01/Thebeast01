@@ -1,7 +1,9 @@
 <h1>👋 Hi, I’m Mohammad Saif, I'm a student, currently persuing my BCA degree from University of Lucknow. </h1>
 - 👀 <em> I’m interested in web development & open Source Contribution. </em>
 - 🌱 I’m currently learning  Frontend web development with HTML, CSS , JAVASCRIPT and RACTJS(learning) , java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
+- [x] Web Projects
+-[x] React Projects
 - 📫 Intagram https://www.instagram.com/mohammad_saif274/
 - linkedin : https://www.linkedin.com/in/mohammad-saif-bca
 
